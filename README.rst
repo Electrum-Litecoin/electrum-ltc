@@ -11,6 +11,14 @@ Features
 - **Security**: Integration with hardware wallets for extra protection.
 
 
+License  
+=============
+
+This project is licensed under the MIT License. See the `LICENSE`_ for details.
+
+.. _LICENSE: https://github.com/Electrum-Litecoin/electrum-ltc/blob/master/LICENCE
+
+
 Getting started
 ===============
 
