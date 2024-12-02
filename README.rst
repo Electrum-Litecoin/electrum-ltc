@@ -1,19 +1,14 @@
 Electrum-LTC - Lightweight Litecoin client
 ==========================================
 
-Electrum-LTC is a port of Electrum, the Bitcoin wallet, to Litecoin.
+**Electrum Litecoin** is a fast and secure wallet for Litecoin. It is designed to be lightweight and easy to use across multiple platforms.  
 
-::
-
-  Licence: MIT Licence
-  Original Author: Thomas Voegtlin
-  Port Maintainer: Pooler
-  Language: Python (>= 3.6)
-  Homepage: https://electrum-ltc.org/
-
-
-
-
+Features  
+=============
+- **Fast Transactions**: Low transaction fees and high speed with Litecoin’s network.  
+- **Lightweight**: No need to download the entire blockchain.  
+- **Multi-Platform Support**: Available for Windows, macOS, and Linux.  
+- **Security**: Integration with hardware wallets for extra protection.
 
 
 Getting started
