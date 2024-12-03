@@ -1,4 +1,4 @@
-Electrum-LTC - Lightweight Litecoin client
+Electrum-LTC - Lightweight Litecoin Wallet
 ==========================================
 
 **Electrum Litecoin** is a fast and secure wallet for Litecoin. It is designed to be lightweight and easy to use across multiple platforms.  
