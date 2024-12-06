@@ -2,10 +2,10 @@ Electrum-LTC - Lightweight Litecoin Wallet
 ==========================================
 
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows&style=for-the-badge&height=50&logoWidth=75)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1-setup.exe)
-[![Download for Linux](https://img.shields.io/badge/Download-Linux-orange?logo=linux&style=for-the-badge&height=50&logoWidth=75)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1-x86_64.AppImage)
-[![Download for MacOS](https://img.shields.io/badge/Download-MacOS-black?logo=apple&style=for-the-badge&height=50&logoWidth=75)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1.dmg)
-[![Download for Python](https://img.shields.io/badge/Download-Python-green?logo=python&style=for-the-badge&height=50&logoWidth=75)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/Electrum-LTC-4.2.2.1.tar.gz)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows&style=for-the-badge&height=50&logoWidth=45)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1-setup.exe)
+[![Download for Linux](https://img.shields.io/badge/Download-Linux-orange?logo=linux&style=for-the-badge&height=50&logoWidth=45)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1-x86_64.AppImage)
+[![Download for MacOS](https://img.shields.io/badge/Download-MacOS-black?logo=apple&style=for-the-badge&height=50&logoWidth=45)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1.dmg)
+[![Download for Python](https://img.shields.io/badge/Download-Python-green?logo=python&style=for-the-badge&height=50&logoWidth=45)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/Electrum-LTC-4.2.2.1.tar.gz)
 
 
 # License
