@@ -5,9 +5,9 @@ Electrum-LTC - Lightweight Litecoin Wallet
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Electrum-Litecoin/electrum-ltc/blob/master/LICENCE) file for details.
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=gitforwindows&style=for-the-badge&logoWidth=90&labelWidth=200)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1-setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=gitforwindows&style=for-the-badge&logoWidth=90&labelWidth=200)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v.4.2.2.1/electrum-ltc-4.2.2.1-setup.exe)
 
-[![Download for Linux](https://img.shields.io/badge/Download-Linux-orange?logo=linux&style=for-the-badge&logoWidth=90)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1-x86_64.AppImage)
+[![Download for Linux](https://img.shields.io/badge/Download-Linux-orange?logo=linux&style=for-the-badge&logoWidth=90)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v.4.2.2.1/electrum-ltc-4.2.2.1-x86_64.AppImage)
 
 [![Download for MacOS](https://img.shields.io/badge/Download-MacOS-black?logo=apple&style=for-the-badge&logoWidth=90)](https://github.com/Electrum-Litecoin/electrum-ltc/releases/download/v4.2.2.1/electrum-ltc-4.2.2.1.dmg)
 
